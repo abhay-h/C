@@ -4,6 +4,11 @@
     "code-runner.runInTerminal": true,
     "files.defaultLanguage": " ",
     "terminal.integrated.automationShell.linux": "",
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.shell.osx": ""
+    "terminal.integrated.shell.osx": "",
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.environmentChangesIndicator": "off",
+    "terminal.integrated.cursorBlinking": true,
+    "debug.javascript.debugByLinkOptions": null
 }
