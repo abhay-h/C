@@ -1,5 +1,6 @@
 {
-    "editor.fontSize": 18,
+    "editor.fontSize": 17,
     "editor.fontFamily": "Fira Code medium",
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "files.defaultLanguage": " "
 }
