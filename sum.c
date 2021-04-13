@@ -4,8 +4,6 @@ int main()
 {
 float num1,num2,sum;
 
-
-
 printf("enter number 1 =  ");
 
 scanf("%f",&num1);
