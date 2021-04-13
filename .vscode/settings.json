@@ -1,0 +1,5 @@
+{
+    "c-cpp-compile-run.run-in-external-terminal": true,
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Fira Code medium"
+}
