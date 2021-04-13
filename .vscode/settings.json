@@ -2,5 +2,8 @@
     "editor.fontSize": 17,
     "editor.fontFamily": "Fira Code medium",
     "code-runner.runInTerminal": true,
-    "files.defaultLanguage": " "
+    "files.defaultLanguage": " ",
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.shell.osx": ""
 }
