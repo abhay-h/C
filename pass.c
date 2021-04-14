@@ -18,7 +18,7 @@ while (x!=0)
     {
         printf("\npassword is correct");
 
-        printf("\n your hash is =  5R3QPM756");
+        printf("\nyour hash is =  5R3QPM756");
 
         x = 0;
     
