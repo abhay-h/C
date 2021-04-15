@@ -10,5 +10,8 @@
     "terminal.integrated.fontFamily": "Fira Code",
     "terminal.integrated.environmentChangesIndicator": "off",
     "terminal.integrated.cursorBlinking": true,
-    "debug.javascript.debugByLinkOptions": null
+    "debug.javascript.debugByLinkOptions": null,
+    "files.associations": {
+        "stdlib.h": "c"
+    }
 }
