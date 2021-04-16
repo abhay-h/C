@@ -12,7 +12,15 @@ int main()
 
     printf("\nenter the values of Mass =  ");
 
-        scanf("%d", &m);
+        scanf("%f", &m);
+        
+        if (m<0)
+        {
+            exit(1);
+        }
+        else{
+            
+       
 
     printf("\nenter the values of Velocity =  ");
 
@@ -25,3 +33,7 @@ int main()
     return kenergy;
 
 }
+
+ }
+        
+ 
