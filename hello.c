@@ -1,5 +1,10 @@
- #include<stdio.h>
-int main()
+#include<stdio.h>
+void p()
 {
-    printf("hello");
+    printf("hello world");
+
+}
+void main()
+{
+    p();
 }
