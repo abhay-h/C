@@ -10,7 +10,7 @@ int main()
      // reading string from user
      printf("Enter %d names:\n",n);
      for(i=0; i<n; i++)
-     scanf("%s[^\n]",name[i]);
+     scanf("%s[^\b]",name[i]);
 
      // dispaying strings
      printf("\nEntered names are:\n");
